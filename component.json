@@ -1,0 +1,9 @@
+{
+  "name": "chai",
+  "version": "1.5.0",
+  "main": "./chai.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hmalphettes/bower-chai.git"
+  }
+}
